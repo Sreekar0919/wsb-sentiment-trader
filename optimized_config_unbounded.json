@@ -1,0 +1,24 @@
+{
+    "strategy_name": "Unbounded ML-Optimized Reddit Sentiment Trading",
+    "version": "3.0",
+    "optimization_method": "Gradient Boosting ML (Unbounded)",
+    "training_messages": 1000000,
+    "baseline_return": 2.341394858431816,
+    "predicted_return": 3.5499228212464686,
+    "expected_improvement": 1.2085279628146526,
+    "parameters": {
+        "vader_weight": 6.334361900201533,
+        "reddit_keyword_weight": 0.6437988291916308,
+        "karma_weight": 0.9637370199127947,
+        "momentum_weight": 1.0334181562795508,
+        "momentum_threshold": 0.10776662792631861,
+        "sentiment_weight_combined": 5.566055504585461,
+        "combined_threshold": 0.2978127110061769,
+        "stop_loss": -0.5878929024529884,
+        "take_profit": 1.7639087337785493,
+        "max_position_size": 0.1395992418444953,
+        "max_positions": 116.92889279611215,
+        "sentiment_threshold": 58.684586882164204,
+        "min_mentions": 2.882006769213976
+    }
+}

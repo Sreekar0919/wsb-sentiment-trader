@@ -1,0 +1,21 @@
+{
+    "strategy_name": "ML-Optimized Reddit Sentiment Trading",
+    "version": "2.0",
+    "optimization_method": "Gradient Boosting ML",
+    "baseline_return": 2.341394858431816,
+    "parameters": {
+        "vader_weight": 1.791551155612925,
+        "reddit_keyword_weight": 0.15053070815530367,
+        "karma_weight": 0.5582198339075756,
+        "momentum_weight": 0.6302386952916798,
+        "momentum_threshold": 0.027676938270219095,
+        "sentiment_weight_combined": 0.791617408350304,
+        "combined_threshold": 12.012088978062987,
+        "stop_loss": -0.19618672043609994,
+        "take_profit": 0.34582293484552484,
+        "max_position_size": 0.051833320139674094,
+        "max_positions": 29.6947340133839,
+        "sentiment_threshold": 6.796599256727724,
+        "min_mentions": 12.598088501675026
+    }
+}

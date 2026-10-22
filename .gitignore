@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+r_wallstreetbets_posts.csv
+data.csv
+*.csv
+!results/*.csv
+weekly_*.json
+backtest_results.json

@@ -1,0 +1,5 @@
+{
+    "positive": ["bull", "moon", "buy", "gain", "rocket", "up", "profit"],
+    "negative": ["bear", "sell", "loss", "down", "drop", "crash", "red", "dd"],
+    "neutral": ["hold", "analysis", "news", "trend"]
+}
