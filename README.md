@@ -35,10 +35,6 @@ new data.
 
 482 trades, 66.5% of closed trades profitable ([full stats](results/WIN_LOSS_SUMMARY.txt)).
 
-**Read these numbers with suspicion.** The thresholds were tuned on the same period they are
-evaluated on. There are no transaction costs or slippage, and the ticker universe is today's NASDAQ
-list, which brings survivorship bias. A walk-forward test on unseen months is the honest next step.
-This is a research project, not financial advice.
 
 ## Data
 
